@@ -57,24 +57,6 @@ $ git commit -m "commit git.txt"
  create mode 100644 git.txt
 
 
-Jameel@JS-Home MINGW64 ~/test (master)
-$ git remote add origin https://github.com/jameelswengr/test_demo.git
-
-
-Jameel@JS-Home MINGW64 ~/test (master)
-$ git push origin master
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Delta compression using up to 12 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 372 bytes | 372.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/jameelswengr/test_demo.git
- * [new branch]      master -> master
-
-Jameel@JS-Home MINGW64 ~/test (master)
-
-
 
 
 
