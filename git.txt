@@ -74,6 +74,8 @@ To https://github.com/jameelswengr/test_demo.git
 
 Jameel@JS-Home MINGW64 ~/test (master)
 
+git diff
+
 
 
 
