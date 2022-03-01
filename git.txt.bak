@@ -76,7 +76,10 @@ Jameel@JS-Home MINGW64 ~/test (master)
 
 git diff
 
+Git Tracking and Git logs:
+git log  -> gives all the commit done on the repository
 
+git add + git commit -m '' ==> git commit -am ''
 
 
 
