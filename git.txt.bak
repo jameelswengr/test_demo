@@ -81,5 +81,8 @@ git log  -> gives all the commit done on the repository
 
 git add + git commit -m '' ==> git commit -am '' //it will commit the existing file changes. It will not commit a new file.
 
+create branch  - git branch feature/dev
+switch to another branch - git switch feature/dev
+
 
 
