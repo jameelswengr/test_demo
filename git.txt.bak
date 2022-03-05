@@ -84,8 +84,5 @@ git add + git commit -m '' ==> git commit -am '' //it will commit the existing f
 create branch  - git branch feature/dev
 switch to another branch - git switch feature/dev
 
-merge - git merge feature/dev --> it will merge the changes from feature/dev to main
-After merge then commit and push to reflect the changes in the remote.
-
 
 
